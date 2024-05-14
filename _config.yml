@@ -1,11 +1,11 @@
 # Site settings
 title: DreamCraft Media
 email: william@dreamcraftmedia.com 
-url: https://github.com/jeromelachaud/freelancer-theme
+url: https://github.com/DreamCraftMedia/dreamcraftmedia.github.io
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 keywords: "your keywords, separated by commas"
-skills: "Web Developer - Graphic Artist - User Experience Designer"
-meta_author: LastName FirstName
+skills: "Digital Art Products - Music Production"
+meta_author: Sutton William
 
 # Google webmaster tools
 google_verify:
